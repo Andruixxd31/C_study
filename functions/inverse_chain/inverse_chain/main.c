@@ -13,7 +13,7 @@ int main() {
 
 
 void functionA(int n){
-    char str[] = "maremoto"; //String that will be reversed
+    char str[] = "orejero"; //String that will be reversed
     if (n != strlen(str) - 1) //until it gets to the last index of the string it will start printing the characters from the newest function in wait to the oldest function in wait in the stack.
         functionB(n);
     printf("%c", str[n]);
