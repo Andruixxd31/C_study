@@ -1,3 +1,4 @@
+//Direct recursion that gets the common denominator by using euclid's algoritm.
 #include <stdio.h>
 int mcde(int a, int b);
 
