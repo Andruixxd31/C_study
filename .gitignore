@@ -1,2 +1,7 @@
 #ignoring the .Ds_Store file 
 .DS_Store
+
+
+#All txt files 
+*.txt
+
