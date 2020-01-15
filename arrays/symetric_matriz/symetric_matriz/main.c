@@ -9,7 +9,7 @@
 
 void gen_mat(int a[][N], int n); //generates array
 int simetrica(int a[][N], int n); //checks if the array is symetric
-void escribe_mat(int a[][N], int n); //prints the array that was found to be symetric
+void escribe_mat(int a[][N], int n); //prints the array that was found to be symetric 
 
 int main() {
     int a[N][N];
